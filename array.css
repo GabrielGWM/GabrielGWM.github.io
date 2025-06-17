@@ -1,0 +1,16 @@
+p {
+    border: 4px outset orange;
+    background-color: #DD9900;
+    display: 30%;
+    margin: 10px;
+}
+
+.bloco1 {
+    border: 4px outset orange;
+    background-color: #DD9900;
+    width: 40%;
+    display: flex;
+    ;
+    ;
+}
+
